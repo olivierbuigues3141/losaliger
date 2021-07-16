@@ -4,3 +4,9 @@
 
 [build.environment]
   NODE_VERSION = "8.9.0"
+
+[redirects]
+  from = "/"
+  to = "https://losali.com/?lang=de_de"
+  status = 301
+  force = true
