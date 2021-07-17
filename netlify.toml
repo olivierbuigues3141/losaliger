@@ -41,3 +41,9 @@
   status = 301
   force = true
   
+[[redirects]]
+  from = "/*"
+  to = "https://losali.com/?lang=de_de"
+  status = 301
+  force = true
+  
