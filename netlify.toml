@@ -10,3 +10,34 @@
   to = "https://losali.com/?lang=de_de"
   status = 301
   force = true
+  
+[[redirects]]
+  from = "/ausland-anrufen/0800"
+  to = "https://losali.com/?lang=de_de"
+  status = 301
+  force = true
+  
+[[redirects]]
+  from = "/ausland-anrufen/sondernummern"
+  to = "https://losali.com/?lang=de_de"
+  status = 301
+  force = true
+  
+[[redirects]]
+  from = "/ausland-anrufen/kundendienst"
+  to = "https://losali.com/?lang=de_de"
+  status = 301
+  force = true
+  
+[[redirects]]
+  from = "/ausland-anrufen/0180"
+  to = "https://losali.com/?lang=de_de"
+  status = 301
+  force = true
+  
+[[redirects]]
+  from = "/ausland-anrufen/unternehmen"
+  to = "https://losali.com/?lang=de_de"
+  status = 301
+  force = true
+  
